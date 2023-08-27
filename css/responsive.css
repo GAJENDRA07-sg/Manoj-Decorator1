@@ -350,8 +350,8 @@
         right: 20%;
     }
     .mr_le figure {
-        margin-right: -13px !important;
-        padding: 0px !important;
+/*         margin-right: -13px !important; */
+/*         padding: 0px !important; */
     }
     .latest_news .news_box .news_img figure {
         margin-left: auto;
@@ -513,11 +513,11 @@
     
     
    }
-    .news_img .mr_le figure{
+/*     .news_img .mr_le figure{
         width: 330px;
         height: 220px;
         margin: 0;
-    }
+    } */
    
     
 
