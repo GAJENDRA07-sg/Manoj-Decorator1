@@ -507,7 +507,7 @@ button {
      color: #2e2d2d;
      font-size: 17px;
      line-height: 31px;
-     padding-bottom: 28px;
+     padding: 0 0 28px 0;
 
 }
 ul.social_icon{
