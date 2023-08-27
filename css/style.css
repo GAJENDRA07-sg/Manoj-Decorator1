@@ -504,10 +504,11 @@ button {
      padding-bottom: 35px;
 }
 .about .bullet-points li{
+     padding: 12px 0;
      color: #2e2d2d;
      font-size: 17px;
      line-height: 31px;
-     padding: 0 0 28px 0;
+    
 
 }
 ul.social_icon{
