@@ -1058,7 +1058,7 @@ ul.social_icon li a:hover {
 .variat {
      color: #fff;
      text-align: left;
-     font-size: 17px;
+     font-size: 14px;
      font-weight: 400;
      line-height: 28px;
 }
@@ -1067,7 +1067,7 @@ ul.conta li {
      color: #fff;
      text-align: left;
      padding-bottom: 20px;
-     font-size: 16px;
+     font-size: 14px;
 }
 
 ul.conta li i {
@@ -1087,7 +1087,7 @@ ul.link_menu li {
 
 ul.link_menu li a {
      color: #fff;
-     font-size: 17px;
+     font-size: 14px;
      line-height: 28px;
      display: block;
      width: -moz-max-content;
