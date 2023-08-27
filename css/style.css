@@ -341,7 +341,6 @@ button {
  */
 
 .banner {
-
      position: relative;
      background: linear-gradient(rgba(0, 0, 0, 0.542), rgba(0, 0, 0, 0.342)), url(/images/Waiting.jpg);
      background-size: 100% 100%;
@@ -367,7 +366,7 @@ button {
      color: #fff;
      font-size: 17px;
      font-weight: 500;
-     display: block;
+     display: block !important;
 }
 
 .text-bg {
