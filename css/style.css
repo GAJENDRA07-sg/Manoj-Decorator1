@@ -328,9 +328,9 @@ button {
 
 /** banner section **/
 
-/* .banner {
+.banner {
      position: relative;
-     background: url(/images/Waiting.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.542), rgba(0, 0, 0, 0.342)), url(/images/Waiting.jpg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -338,9 +338,9 @@ button {
      margin-top: auto;
      margin-bottom: auto;
 }
- */
 
-.banner {
+
+/* .banner {
      position: relative;
      background: linear-gradient(rgba(0, 0, 0, 0.542), rgba(0, 0, 0, 0.342)), url(/images/Waiting.jpg);
      background-size: 100% 100%;
@@ -349,9 +349,9 @@ button {
      min-height: 804px;
      margin-top: auto;
      margin-bottom: auto;
-}
+} */
 
-.text-bg h1 {
+/* .text-bg h1 {
      color: wheat;
      font-family: 'Montserrat', sans-serif;
      font-size: 50px;
@@ -367,7 +367,7 @@ button {
      font-size: 17px;
      font-weight: 500;
      display: block !important;
-}
+} */
 
 .text-bg {
      text-align: Center;
@@ -381,12 +381,13 @@ button {
      bottom: 0;
 }
 
-/* .text-bg h1 {
+.text-bg h1 {
      color: #eedf3b;
-     font-size: 85px;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 50px;
      line-height: 96px;
      padding-bottom: 0px;
-     font-weight: bold;
+     font-weight: 500;
 }
 
 .text-bg span {
@@ -394,9 +395,9 @@ button {
      padding-bottom: 40px;
      color: #fff;
      font-size: 17px;
-     font-weight: bold;
+     font-weight: 500;
      display: block;
-} */
+}
 
 .text-bg .read_more {
      max-width: 243px;
