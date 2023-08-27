@@ -510,6 +510,9 @@ button {
      padding-bottom: 28px;
 
 }
+ul.social_icon{
+  padding-bottom: 8px;
+}
 
 .about_img {
      padding: 40px 30px 45px 30px;
