@@ -221,6 +221,9 @@
     .mr_le figure {
         margin-right: -13px !important;
     }
+    .mr_le figure img{
+        width:100%;
+    }
     .latest_news .news_box .news_img figure {
         margin-left: -12px;
     }
