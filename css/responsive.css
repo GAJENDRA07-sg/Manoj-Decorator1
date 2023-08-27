@@ -513,7 +513,7 @@
     
     
    }
-    .news_img figure img{
+    .news_img .mr_le figure img{
         width: 330px;
         height: 220px;
     }
