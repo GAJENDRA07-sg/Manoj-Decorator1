@@ -511,9 +511,7 @@ button {
     
 
 }
-ul.social_icon{
-  padding-bottom: 8px;
-}
+
 
 .about_img {
      padding: 40px 30px 45px 30px;
@@ -1025,7 +1023,7 @@ ul.social_icon{
 }
 
 ul.social_icon {
-     padding-bottom: 14px;
+     padding-bottom: 8px;
      width: 100%;
      text-align: left;
 }
